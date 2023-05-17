@@ -8,7 +8,7 @@ function startLoading() {
 
 const getFormatButton = function () {
   var button = document.createElement("button");
-  button.innerHTML = "FORMAT";
+  button.innerHTML = "Format";
   button.className = "tool-button";
   button.id = "format-button";
   button.setAttribute("icon", "information");
@@ -16,12 +16,16 @@ const getFormatButton = function () {
   button.setAttribute("type", "ghost");
   button.style.marginRight = "10px";
   button.style.border = "none";
-  button.style.backgroundColor = "green";
+  button.style.backgroundColor = "#218838";
   button.style.borderImage = "none";
   button.style.outline = "none";
   button.style.cursor = "pointer";
   button.title = "Format";
+  button.style.padding = "4px 20px";
   button.style.color = "white";
+  button.style.fontWeight = "600";
+  button.style.borderRadius = "3px";
+
   button.addEventListener("click", process);
   return button;
 };
