@@ -1,5 +1,6 @@
 # az-code-formatter
-![2023-05-18 00-31-48 (1)](https://github.com/prabaljainn/az-code-formatter/assets/62801988/26ba20cc-0f08-405b-a1bb-051582908c89)
+
+![Animation](https://github.com/prabaljainn/az-code-formatter/assets/62801988/e6accd66-e171-476f-b0d9-9872e5fbe15d)
 
 
 ## Steps to Use a Chrome Extension from this GitHub Repository
